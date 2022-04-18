@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orelem
-- 👀 I’m interested in Data Analytics/ Data Engineering
-- 🌱 I’m currently learning SQL and Tableau
+- 👀 I’m interested in Frontend Software Engineering
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and React
 - 💞️ I’m looking to collaborate on (TBD, still learning the basics)
 - 📫 How to reach me orelemrye@protonmail.com
 
