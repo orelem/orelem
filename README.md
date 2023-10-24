@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @orelem
-- 👀 I’m interested in Frontend Software Engineering
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and React
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on (TBD, still learning the basics)
-- 📫 How to reach me orelemrye@protonmail.com
+- 📫 How to reach me wilsherandrew@gmail.com
 
 <!---
 orelem/orelem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
